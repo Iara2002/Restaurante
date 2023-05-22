@@ -25,4 +25,4 @@ No se requieren requisitos previos para acceder a la página web de Cucinare. Pu
 
 ## Autoría
 Autor: Iara Barcos
-Sitio web: https://github.com/Iara2002/
+Sitio web: https://restaurantecucinare.netlify.app/
